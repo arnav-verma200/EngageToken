@@ -1,11 +1,7 @@
----
-
 # EngageToken – Social Media Engagement Reward System
 
 **Contract Address:** 0x4DF75f6B973D15AD1A58Eacea346baF0EAc95024
 **Network:** Flow EVM Testnet
-
----
 
 ## Overview
 
